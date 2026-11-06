@@ -1,0 +1,29 @@
+# Studio EX
+
+> Studio EX is a creative technology studio in London, founded in 2023. We use art, interaction, data and technology to get people to take part in, and understand, the issues facing the world.
+
+We work three ways: for hire, for clients; on our own IP, the artworks and products we make and own; and on touring events that carry that IP.
+
+Contact: greg@studioex.co, London, United Kingdom.
+
+## Projects
+
+- [The Six Degrees](https://studioex.co/projects/the-six-degrees/): The Six Degrees is a real-time, interactive artwork that maps how every person is connected by six steps or fewer. (Our IP)
+- [Telar](https://studioex.co/projects/telar/): Telar is a Studio EX product for real, human networking at events and in communities. (Our IP)
+- [The Cost of War](https://studioex.co/projects/the-cost-of-war/): The Cost of War is a live data artwork that sets what the world spends on violence against what the same money could build instead. (Our IP)
+- [Mutually Reassured Destruction](https://studioex.co/projects/mutually-reassured-destruction/): Mutually Reassured Destruction is a participatory climate artwork that grows with every person who joins. (Our IP)
+- [A Problem Shared](https://studioex.co/projects/a-problem-shared/): A Problem Shared is a marathon for mental health: eight runners share an 80 kg load until each carries 10 kg. (Our IP)
+- [We Feel](https://studioex.co/projects/we-feel/): We Feel asks the world one question at 9am and shows how it feels, answered with a feeling in one tap. (Our IP)
+- [Olha Pra Mim](https://studioex.co/projects/olha-pra-mim/): Olha Pra Mim is a portrait project by the photographer Thi Santos: 4,000+ looks recorded since 2014. (Our IP)
+- [FOMO](https://studioex.co/projects/fomo/): FOMO is the Studio EX open call art series: a free open call, a themed group show and a party. (Touring events)
+- [Assembly](https://studioex.co/projects/assembly/): Assembly is a touring open-call exhibition: seventy artists from every part of London, Manchester and Leeds, in galleries laid out as maps. (Touring events)
+- [Art Hack](https://studioex.co/projects/art-hack/): Art Hack is a one-day creative sprint where artists form interdisciplinary teams and make new work from scratch around a shared theme. (Touring events)
+- [Human Resources](https://studioex.co/projects/human-resources/): Human Resources is a touring show of rooms on unity, division, mental health and climate. (Touring events)
+- [Parlour](https://studioex.co/projects/parlour/): Parlour is a London night for music, art and the people you meet there. (Touring events)
+
+## Pages
+
+- [Projects](https://studioex.co/projects/): every project, by track
+- [Services](https://studioex.co/services/): design services, creative technology, events
+- [About us](https://studioex.co/about/): what we care about, our story, the team
+- [Contact](https://studioex.co/contact/): tell us who you are
