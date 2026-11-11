@@ -1,0 +1,1 @@
+import{n as e,t}from"./calls.uyv4g9H0.js";for(let n of document.querySelectorAll(`[data-call]`)){let r=n.querySelector(`[data-call-badge]`);r&&(r.textContent=t[e({opens:n.dataset.opens,deadline:n.dataset.deadline,results:n.dataset.results})])}

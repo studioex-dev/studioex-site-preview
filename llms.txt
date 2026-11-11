@@ -27,3 +27,4 @@ Contact: greg@studioex.co, London, United Kingdom.
 - [Services](https://studioex.co/services/): design services, creative technology, events
 - [About us](https://studioex.co/about/): what we care about, our story, the team
 - [Contact](https://studioex.co/contact/): tell us who you are
+- [Open calls](https://studioex.co/open-call/): calls for artists, the one open now and every past call
