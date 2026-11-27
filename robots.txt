@@ -1,2 +1,17 @@
+# studioex.co
+# Search engines and AI assistants are welcome to read and cite this site.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /kit/
+
+Sitemap: https://studioex.co/sitemap-index.xml
